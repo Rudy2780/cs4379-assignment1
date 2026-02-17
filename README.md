@@ -22,8 +22,10 @@ This repository contains my first assignment for CS4379G, demonstrating Git/GitH
 
 ## Key Findings
 
-[You'll fill this in after completing your analysis]
-```
+- Movies outnumber TV Shows roughly 2:1 on Netflix
+- TV-MA is the dominant rating for both content types
+- Netflix content grew rapidly from 2015-2019 then declined in 2020
+- R-rated content is almost exclusively Movies
 
 ## Step 3: Create .gitignore
 
